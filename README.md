@@ -15,7 +15,7 @@ You need to hide, you need to survive and you need to find the truth.
 - Search for essential survival items (Food, Water, Batteries...) around the village.
 - Hide and sneak your way passed Zombies when you don't have enough ammo.
 
-  ![](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1580440/extras/Pic.gif)
+  ![](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1580440/extras/Pic.gif?t=1642284278)
  
 ### Solve Mysteries
 - Search for codes, hidden messages and secret places.
